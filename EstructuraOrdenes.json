@@ -1,0 +1,21 @@
+{
+    "OrderID": 12552,
+    "Address": "Corrientes 1200",
+    "Status": "Ready",
+    "Articles": [
+        {
+            "Name": "Sopa",
+            "Price": 1500,
+            "Quantity": 2,
+            "Dangerous": false
+        },
+        
+        {
+            "Name": "Explosivo",
+            "Price": 3000,
+            "Quantity": 10,
+            "Dangerous": true
+        }
+    ]
+
+}
